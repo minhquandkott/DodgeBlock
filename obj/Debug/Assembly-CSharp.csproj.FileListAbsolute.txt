@@ -1,0 +1,2 @@
+E:\StudyIT\Unity\Dodge-Block\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+E:\StudyIT\Unity\Dodge-Block\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache

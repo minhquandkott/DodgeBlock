@@ -17,6 +17,8 @@ public class GameManage : MonoBehaviour
         yield return new WaitForSeconds(1f / slowness);
         Time.timeScale = 1f;
         Time.fixedDeltaTime = Time.fixedDeltaTime * slowness;
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex+1);
     }
+
 }	
